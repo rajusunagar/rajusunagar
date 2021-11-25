@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [SUNAGAR Web Development](https://www.sunagar.com/)
 
-- 🤝 I’m looking for help with [https://www.sunagar.com/](https://www.sunagar.com/)
-
-- 👨‍💻 All of my projects are available at [https://www.sunagar.com/p/about-me.html](https://www.sunagar.com/p/about-me.html)
+- 👨‍💻  Know about me [https://www.sunagar.com/p/about-me.html](https://www.sunagar.com/p/about-me.html)
 
 - 📝 I regularly write articles on [https://www.sunagar.com/](https://www.sunagar.com/)
 
