@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raju Sunagar</h1>
-<h3 align="center">A passionate frontend/backend developer, Blogger and YouTuber.</h3>
+<h3 align="center">A passionate Full Stack Developer & YouTuber.</h3>
 
 - 🔭 I’m currently working on [SUNAGAR Web Development](https://www.sunagar.com/)
 
