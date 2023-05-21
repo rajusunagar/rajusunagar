@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Raju Sunagar</h1>
 <h3 align="center">A passionate Full Stack Developer & YouTuber.</h3>
 
-- 🔭 I’m currently working on [SUNAGAR Web Development](https://www.sunagar.com/)
+- 🔭 I’m currently working on [Java Full Stack Development](https://github.com/rajusunagar)
 
-- 👨‍💻  Know about me [https://www.sunagar.com/p/about-me.html](https://www.sunagar.com/p/about-me.html)
+- 👨‍💻  Know about me [Visit My Linkedin Profile](https://www.linkedin.com/in/rajusunagar/)
 
-- 📝 I regularly write articles on [https://www.sunagar.com/](https://www.sunagar.com/)
-
-- 💬 Ask me about **Web development, MySQL, SEO, AdSense**
+- 💬 Ask me about **Web development,Java J2EE, Spring Boot & Microservices**
 
 - 📫 How to reach me **rajusunagarcs@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/rajusunagar/](https://www.linkedin.com/in/rajusunagar/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
