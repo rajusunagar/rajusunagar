@@ -3,7 +3,7 @@
 
 - 👨‍💻  Know about me [Visit My Linkedin Profile](https://www.linkedin.com/in/rajusunagar/)
 
-- 💬 Ask me about **Web development,Java J2EE, Spring Boot & Microservices**
+- 💬 Ask me about **Java, Spring Boot, Microservices and AWS Cloud**
 
 - 📫 How to reach me **rajusunagarcs@gmail.com**
 <p align="left">
