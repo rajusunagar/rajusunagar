@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raju Sunagar</h1>
-<h3 align="center">A passionate Software Development Engineer</h3>
+<h3 align="center">A Passionate Software Development Engineer</h3>
 
 - 👨‍💻  Know about me [Visit My Linkedin Profile](https://www.linkedin.com/in/rajusunagar/)
 
