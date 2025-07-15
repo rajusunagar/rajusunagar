@@ -8,6 +8,7 @@
 - 📫 How to reach me **rajusunagarcs@gmail.com**
 <p align="left">
 </p>
-&nbsp;![](https://komarev.com/ghpvc/?username=rajusunagar&color=brightgreen)
+
+![](https://komarev.com/ghpvc/?username=rajusunagar&color=brightgreen)
 
 
