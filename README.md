@@ -6,9 +6,10 @@
 - 💬 Ask me about **Java, Python, DSA, Spring Boot, Microservices and AWS Cloud.**
 
 - 📫 How to reach me **rajusunagarcs@gmail.com**
+  
+  ![](https://komarev.com/ghpvc/?username=rajusunagar&color=brightgreen)
 <p align="left">
 </p>
 
-![](https://komarev.com/ghpvc/?username=rajusunagar&color=brightgreen)
 
 
