@@ -8,9 +8,6 @@
 - 📫 How to reach me **rajusunagarcs@gmail.com**
 <p align="left">
 </p>
-
 &nbsp;![](https://komarev.com/ghpvc/?username=rajusunagar&color=brightgreen)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajusunagar&show_icons=true&rank_icon=github&locale=en" alt="rajusunagar" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajusunagar&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
-</p>
+
 
