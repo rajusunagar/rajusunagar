@@ -3,7 +3,7 @@
 
 - 👨‍💻  Know about me [Visit My Linkedin Profile](https://www.linkedin.com/in/rajusunagar/)
 
-- 💬 Ask me about **Java, Python, DSA, Spring Boot, Microservices and AWS Cloud.**
+- 💬 Ask me about **Java, Python, DSA, Microservices and AWS Cloud.**
 
 - 📫 How to reach me **rajusunagarcs@gmail.com**
   
